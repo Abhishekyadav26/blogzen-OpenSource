@@ -73,7 +73,12 @@
     border-radius: 1vw;
     background-color: #ff765d;
     color: white;
-
+}
+:hover.s1btn1{
+    cursor: pointer;
+    color: white;
+    border: 1px solid #ff765d;
+    font-size: medium;
 }
 
 .s1part2 a {
